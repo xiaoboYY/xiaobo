@@ -1,0 +1,2 @@
+# xiaobo
+a javascript project
